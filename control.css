@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  max-width: 960px;
+  max-height: 2000px;
+  margin: 0 auto;
+  margin-top: 350px;
+}
+
+.pic {
+  display: flex;
+  flex-direction: column;
+  max-width: 40%;
+  max-height: 300px;
+  border: groove 10px red;
+  margin-left: 300px;
+}
